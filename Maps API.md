@@ -15,5 +15,5 @@ Looking on Maps APIs to work with, obviously Google Maps API took the most of at
 
 ## Conclusion
 ***
-Google Maps API is the perfect choice for individual development, since it's free for developing. Usage will cost the money, but that's not a problem as far as my project is just playing with maps and understanding how to work with them.
+Google Maps API is the perfect choice for individual development, since it's free for developing. Usage will cost the money, but that's not a problem as far as my project is just playing with maps and understanding how to work with them. 
 
