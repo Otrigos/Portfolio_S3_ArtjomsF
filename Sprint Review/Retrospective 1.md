@@ -22,15 +22,11 @@ Time management: Since research took up a significant portion of the sprint, it'
 
 Documentation: Keeping track of the research findings, configuration details, and any other relevant information in documentation can be helpful for future reference and knowledge sharing.
 
-Collaboration: If you were working in a team, ensuring effective collaboration and communication with team members can further enhance productivity and alignment towards sprint goals.
-
 Based on the challenges you faced and the successes achieved, here are some actions that can be taken to improve in the next sprint:
 
 Time-box research: Plan and allocate a specific time-box for research activities to balance it with development tasks and avoid potential delays.
 
 Document findings: Keep a record of research findings, configuration details, and any other relevant information in documentation for future reference and knowledge sharing.
-
-Collaborate effectively: Communicate and collaborate effectively with team members to ensure alignment and coordination throughout the sprint.
 
 Seek feedback: Request feedback from team members or stakeholders to identify areas of improvement and implement corrective actions.
 
