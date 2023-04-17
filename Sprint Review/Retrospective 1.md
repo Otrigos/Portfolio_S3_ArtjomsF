@@ -1,6 +1,7 @@
 # Retrospective 1
 ***
 Me: My sprint is almost done and it's time to do retrospective, can you do that with me?
+
 ChatGPT: Of course! I'd be happy to help you with your retrospective. A retrospective is an important part of the agile development process, where the team reflects on the sprint that just ended and identifies what went well, what could have gone better, and actions to improve in the next sprint. Let's get started!
 Me: During my first sprint I mainly did a lot of research starting with JavaScript, which I never used before. Later I started to look any maps API and found Google Maps API for fast access to the services. I configured front-end for setting, validating and sending the addresses
 ChatGPT: Great! It sounds like you made good progress during the sprint by conducting research on JavaScript and finding a suitable maps API, specifically the Google Maps API. You also worked on configuring the front-end to handle setting, validating, and sending addresses.
