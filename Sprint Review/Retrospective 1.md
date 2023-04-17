@@ -8,7 +8,7 @@ Me: During my first sprint I mainly did a lot of research starting with JavaScri
 
 ChatGPT: Great! It sounds like you made good progress during the sprint by conducting research on JavaScript and finding a suitable maps API, specifically the Google Maps API. You also worked on configuring the front-end to handle setting, validating, and sending addresses.
 
-Based on this, here are some points to consider for what went well during the sprint:
+## Based on this, here are some points to consider for what went well during the sprint:
 
 Proactive research: Conducting research on a new technology like JavaScript and finding a suitable maps API shows initiative and proactivity in learning and exploring new technologies.
 
@@ -22,7 +22,7 @@ Time management: Since research took up a significant portion of the sprint, it'
 
 Documentation: Keeping track of the research findings, configuration details, and any other relevant information in documentation can be helpful for future reference and knowledge sharing.
 
-Based on the challenges you faced and the successes achieved, here are some actions that can be taken to improve in the next sprint:
+## Based on the challenges you faced and the successes achieved, here are some actions that can be taken to improve in the next sprint:
 
 Time-box research: Plan and allocate a specific time-box for research activities to balance it with development tasks and avoid potential delays.
 
@@ -30,4 +30,4 @@ Document findings: Keep a record of research findings, configuration details, an
 
 Seek feedback: Request feedback from team members or stakeholders to identify areas of improvement and implement corrective actions.
 
-Overall, it seems like you made good progress during the sprint and have identified areas for improvement. Remember to continuously iterate and improve in subsequent sprints to enhance your development process. Is there anything else you'd like to discuss or any further questions about the retrospective process?
+### Overall, it seems like you made good progress during the sprint and have identified areas for improvement. Remember to continuously iterate and improve in subsequent sprints to enhance your development process. Is there anything else you'd like to discuss or any further questions about the retrospective process?
