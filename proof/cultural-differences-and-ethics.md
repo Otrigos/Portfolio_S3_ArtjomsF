@@ -1,8 +1,6 @@
 # Cultural Differences and Ethical Considerations in Software Development
 
-***
-
-# Ethical Programming Guidelines
+## Ethical Programming Guidelines
 
 ***
 
