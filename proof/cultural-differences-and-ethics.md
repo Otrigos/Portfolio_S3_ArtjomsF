@@ -2,8 +2,6 @@
 
 ***
 
-In the realm of software development, it is essential to recognize and address cultural differences and ethical aspects to ensure the satisfaction of project stakeholders.
-
 # Ethical Programming Guidelines
 
 ***
