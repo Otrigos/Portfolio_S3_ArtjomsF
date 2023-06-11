@@ -16,3 +16,6 @@ Adhering to these guidelines helps promote responsible and ethical conduct in th
 By actively recognizing and integrating cultural differences and ethical principles into our software development processes, we can ensure the creation of products that meet the needs of stakeholders while upholding ethical standards in our work.
 
 ### Here you can find the [ethical principles](https://www.acm.org/code-of-ethics) by the ACM.
+
+### Cultural differences
+Since cultural differences are more related with Gorup work, you can explore a page about that in the Group Project in which im am involved [here](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Cultural%20differences%20and%20ethics.md).
