@@ -32,4 +32,4 @@ Although I used an mongoose ORM for communicating with non-sql Database MongoDB.
 - [Individual Project](https://github.com/Dpils-s)
 - [Why vue](https://github.com/Otrigos/Portfolio_S3_ArtjomsF/blob/main/Research/Vue.md)
 - [Maps API](https://github.com/Otrigos/Portfolio_S3_ArtjomsF/blob/main/Research/Maps%20API.md) 
-- Why MongoDB and Mongoose
+- [Why MongoDB and Mongoose](https://github.com/Otrigos/Portfolio_S3_ArtjomsF/blob/main/Research/MongoDB%20and%20Mongoose.md)
