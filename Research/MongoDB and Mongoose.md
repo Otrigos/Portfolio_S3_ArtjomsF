@@ -2,7 +2,6 @@
 ***
 
 MongoDB and Mongoose are popular choices for databases and object modeling in web development. There are a few reasons why people choose them:
-***
 
 - Flexibility and Scalability: MongoDB can handle different types of data and can scale horizontally across multiple servers, which is great for large applications and websites with lots of visitors.
 
