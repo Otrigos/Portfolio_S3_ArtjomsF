@@ -1,3 +1,7 @@
+# Vue
+
+***
+
 Choosing a front-end framework for my application led me to explore the three major contenders: Vue, Angular, and React. After considering my options, I ultimately opted for Vue for several compelling reasons.
 
 First and foremost, Vue.js boasts a relatively simple syntax that is both easy to grasp and comprehend. As someone new to web development, this simplicity greatly appealed to me, as it minimized the time and effort required to learn complex concepts and intricate syntax.
