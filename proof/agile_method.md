@@ -6,13 +6,13 @@ The use of software tools and methodologies that enable continuous monitoring an
 and adaptability. By breaking down projects into smaller sprints or iterations, teams work together to deliver the final product. Agile methodologies promote close collaboration, transparent communication, and frequent meetings to track progress and address challenges. One of the key principles of Agile
 is its ability to embrace change and adjust plans based on feedback and evolving requirements, resulting in a fluid and responsive development process.
 
-#Jira - Enabling Agile Practices
+# Jira - Enabling Agile Practices
 
 ***
 
 Using the right tools can make your work a lot easier. At the beginning of our project we had considered different tools like Trello, and GitHub Projects. Eventually we chose to use Jira, as it is widely used by professional teams, and it also allows us to integrate our tasks with our GitHub Repositories.
 
-#Scrum - Effective Project Management Framework
+# Scrum - Effective Project Management Framework
 
 ***
 
@@ -21,7 +21,7 @@ on my progress, identify areas for improvement, and make necessary adjustments f
 
 
 
-#Implementation in GP
+# Implementation in GP
 
 ***
 
