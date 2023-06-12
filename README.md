@@ -9,4 +9,4 @@
 |Cultural differences and ethics| [🔗](https://github.com/Otrigos/Portfolio_S3_ArtjomsF/blob/main/proof/cultural-differences-and-ethics.md)
 |!!!!Requirements and design| [🔗]()
 |!!!!Business processes| [🔗]()
-|!!!!Professional| [🔗]()
+|Professional| [🔗](https://github.com/Otrigos/Portfolio_S3_ArtjomsF/blob/main/proof/Proffesional.md)
