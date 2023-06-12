@@ -22,25 +22,15 @@ I have made Unit Tests on the Front-end Google Maps API, these unit tests, test 
 
 Unit tests are automatically run in the [test workflow](https://github.com/Dpils-s/Rider-maps/blob/main/.github/workflows/ci.yml) of the User-Preferences-API
 
-## Important Questions
-### What do you consider to be software of high quality?
-Software is of high quality when it:
-- Serves the purpose it was made for.
-- Has no bugs or unintended side affects.
-- Is well tested where and when it's needed.
-- Is maintainable
-- Is readable/understandable (with help of comments)
-- Code has documentation where necessary
-
 ## Key Aspects of High-Quality Software
 ### High-quality software encompasses several essential aspects.
 Here are the key factors that contribute to software of high quality:
--Purposeful and serves its intended goal.
--Free of bugs and unintended side effects.
--Well-tested at different levels.
--Maintainable and follows best practices.
--Readable and understandable, aided by comments.
--Documented appropriately.
+- Purposeful and serves its intended goal.
+- Free of bugs and unintended side effects.
+- Well-tested at different levels.
+- Maintainable and follows best practices.
+- Readable and understandable, aided by comments.
+- Documented appropriately.
 
 
 
