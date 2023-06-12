@@ -17,7 +17,7 @@ The reason we've set up this document is so we can work together better, and eve
 
 
 ## Research
-During this semester I've been working mainly on research documents.
+During this semester I've been working mainly on research and you can finds some documents about that.
 You can view the [research papers here](https://github.com/Otrigos/Portfolio_S3_ArtjomsF/tree/main/Research).
 
 ## Feedback
