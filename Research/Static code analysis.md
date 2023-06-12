@@ -34,6 +34,6 @@ SonarCloud is a cloud-based static code analysis platform provided by SonarSourc
 
 - Continuous monitoring: SonarCloud allows continuous monitoring of code quality over time. It tracks changes in code quality metrics and provides historical data, enabling developers to identify trends, measure progress, and ensure ongoing improvement in code quality.
 
-Conclusion
+## Conclusion
 Static code analysis is a valuable technique for identifying defects, improving code quality, and enhancing software security. SonarCloud, as a cloud-based static code analysis tool, offers a comprehensive platform for code quality management.
 By integrating with CI/CD pipelines and providing rule-based analysis, Sonar
