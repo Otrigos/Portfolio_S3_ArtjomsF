@@ -22,18 +22,20 @@ on SonarCloud by [clicking here](https://sonarcloud.io/organizations/dpils-s/pro
   # This workflow will build and Test a Vue + JavaScripr project
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
 
-name: Continuous Integration
+name: Continuous Integration && SonarCloud
 
 on:
   push:
     branches:
       - main
+      - master
   pull_request:
     branches:
       - main
+      - master
 
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -43,13 +45,27 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: 14
+          node-version: 16
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
-      - name: Run tests
-        run: npm run test
+      - name: Build
+        run: npm run build
+
+      - name: Test coverage
+        run: npm run test:coverage
+
+      - name: SonarCloud Scan
+        uses: sonarsource/sonarcloud-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }} 
+        with:
+          args:
+            -Dsonar.projectKey=Dpils-s_Rider-maps
+            -Dsonar.organization=dpils-s
+
   ```
   
   </details>
