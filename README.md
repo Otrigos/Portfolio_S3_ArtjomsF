@@ -1,4 +1,7 @@
 # Portfolio_S3_ArtjomsF
+***
+<img src=![organization](https://github.com/Otrigos/Portfolio_S3_ArtjomsF/assets/92020227/9c70526e-55dc-41b0-a36f-83d1f461b088)alt="GIF Broke :(" width="50%" height="50%" />
+
 
 | Learning Outcome | Proof |
 |:-----------------|:-----:|
