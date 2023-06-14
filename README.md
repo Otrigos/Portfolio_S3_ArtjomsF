@@ -26,6 +26,6 @@ Hello, my name is Artjoms Figurins, and I am thrilled to introduce my personal p
 
 ## Special credits
 ***
-- This Portfolio took inspiration from [LukasJansen100](https://github.com/LukasJansen100/Portfolio-S3) and [Tick-Guthub](https://github.com/tick-github/tick-documentation/tree/main/docs/proof).
+- This Portfolio took inspiration from [LukasJansen100](https://github.com/LukasJansen100/Portfolio-S3) and [Tick-Guthub](https://github.com/tick-github/tick-documentation).
   
 - This project utilized the ChatGPT language model developed by [OpenAI](https://openai.com/).
